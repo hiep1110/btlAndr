@@ -1,0 +1,38 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageButton
+        android:id="@+id/leftChangeProfileBtn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/left_arrow"
+        android:src="@android:drawable/ic_media_play"
+        android:rotation="300"
+        android:layout_weight="1"
+        android:gravity="center"
+        />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_gravity="center"/>
+
+    <ImageButton
+        android:id="@+id/rightChangeProfileBtn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/right_arrow"
+        android:src="@android:drawable/ic_media_play"
+        android:rotation="0"
+        android:layout_weight="1"
+        android:gravity="center"
+         />
+</merge>

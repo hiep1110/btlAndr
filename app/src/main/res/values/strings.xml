@@ -1,0 +1,29 @@
+<resources>
+    <string name="default_web_client_id">113251474596-tfi576tt2hf7i6bcs0ahks019l451alq.apps.googleusercontent.com</string>
+    <string name="app_name">Chicken Shooter</string>
+    <string name="game">Chicken Shooter</string>
+    <string name="play">Chơi</string>
+    <string name="profile">New Profile</string>
+    <string name="exit">Exit</string>
+    <string name="ProfileA">ProfileA</string>
+    <string name="profilea">ProfileA</string>
+    <string name="ranking">Ranking</string>
+    <string name="right_arrow">right_arrow</string>
+    <string name="left_arrow">left_arrow</string>
+    <string name="alert">Thông báo</string>
+    <string name="you_don_t_have_profile_to_play_yet_nplease_create_a_profile">Bạn chưa điền tên\n Hãy nhập tên!</string>
+    <string name="your_profile_name">Tên người chơi</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="_0">0</string>
+    <string name="score">Điểm số: </string>
+    <string name="game_over">Game Over</string>
+    <string name="height_score">Điểm cao nhất</string>
+    <string name="replay">Chơi lại</string>
+    <string name="default_score">100</string>
+    <string name="connect_to_global">Connect to Global</string>
+    <string name="back">Back</string>
+    <string name="profile_name">Profile name</string>
+    <string name="_1">1</string>
+    <string name="you_did_nt_connect_to_global_competition_yet">You did\'nt connect to global competition yet</string>
+</resources>
